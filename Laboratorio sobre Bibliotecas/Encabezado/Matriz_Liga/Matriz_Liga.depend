@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1678422159 source:c:\users\favio\onedrive\escritorio\encabezado\matriz_liga\main.cpp
+	<iostream>
+	"UsoMatriz.h"
+
+1678422159 c:\users\favio\onedrive\escritorio\encabezado\matriz_liga\include\usomatriz.h
+
+1678422752 source:c:\users\favio\onedrive\escritorio\encabezado\matriz_liga\src\usomatriz.cpp
+	"UsoMatriz.h"
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
