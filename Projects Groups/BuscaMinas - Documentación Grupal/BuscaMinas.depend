@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1680424634 source:c:\users\favio\onedrive\escritorio\juego\buscaminas\main.cpp
+	<iostream>
+	<unistd.h>
+	"Juego.h"
+	"Config.h"
+
+1680421217 c:\users\favio\onedrive\escritorio\juego\buscaminas\include\juego.h
+	"Tablero.h"
+	"Config.h"
+
+1680421504 c:\users\favio\onedrive\escritorio\juego\buscaminas\include\tablero.h
+	<iostream>
+	<vector>
+	"Celda.h"
+
+1680423641 c:\users\favio\onedrive\escritorio\juego\buscaminas\include\celda.h
+
+1680421205 c:\users\favio\onedrive\escritorio\juego\buscaminas\include\config.h
+
+1680423154 source:c:\users\favio\onedrive\escritorio\juego\buscaminas\src\celda.cpp
+	"Celda.h"
+	<iostream>
+
+1680422686 source:c:\users\favio\onedrive\escritorio\juego\buscaminas\src\config.cpp
+	<iostream>
+	<unistd.h>
+	"Config.h"
+
+1680421086 source:c:\users\favio\onedrive\escritorio\juego\buscaminas\src\juego.cpp
+	"Juego.h"
+	"Config.h"
+	<iostream>
+
+1680189688 source:c:\users\favio\onedrive\escritorio\juego\buscaminas\src\tablero.cpp
+	"Tablero.h"
+	<sstream>
+	<iostream>
+
