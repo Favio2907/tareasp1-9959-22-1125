@@ -1,0 +1,16 @@
+
+
+			 Id Persona: 123
+ 
+|      Datos del trabajador      |           Percepciones Empleados          |           Deducciones Empleados           |
+| Nombre:          Diego Gomez   | Sueldo:                           Q 4000  | ISR:                           Q 228.75   |
+| Genero:          Masculino     | Bonificaciones:                   Q 250   | IGGS:                          Q 137.25   |
+| DPI:             523423        | Comisiones:                       Q 200   | IRTRA:                         Q 75       |
+| Telefono 1:      345234        | Percepciones Extraordinarias:     Q 100   | Prestamos:                     Q 111      |
+| Telefono 2:      236345        | Horas Extra:                      Q 25    |                                           |
+| Cuenta Bancaria: 523234        | Total Percepciones:               Q 4575  | Total Deducciones:             Q 552      |
+|                                                                                                                        |
+| TOTAL SUELDO LIQUIDO Q 4023                                                                                            |
+| Transferencia de pago a numero de cuenta: 523234                                                                       |
+|                                                                                                                        |
+| Fecha de emision: 12/4                                                                                                 |
