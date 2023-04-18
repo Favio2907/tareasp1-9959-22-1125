@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1681692960 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\main.cpp
+	<iostream>
+	<unistd.h>
+	<ctime>
+	"Juego.h"
+	"Config.h"
+	"persona.h"
+
+1681733097 c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\include\juego.h
+	"Tablero.h"
+
+1681733347 c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\include\tablero.h
+	<iostream>
+	<vector>
+	"Celda.h"
+	"Jugador.h"
+
+1681732615 c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\include\celda.h
+
+1681589482 c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\include\jugador.h
+	"Config.h"
+
+1681732885 c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\include\config.h
+
+1681733661 c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\include\persona.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1681694258 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\src\celda.cpp
+	"Celda.h"
+	<iostream>
+
+1681732005 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\src\config.cpp
+	<iostream>
+	<unistd.h>
+	"Config.h"
+
+1681695707 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\src\juego.cpp
+	"Juego.h"
+	"Config.h"
+	"Tablero.h"
+	"persona.h"
+	<fstream>
+	<unistd.h>
+
+1681704360 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\src\jugador.cpp
+	"Jugador.h"
+	<iostream>
+
+1681602382 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\src\persona.cpp
+	"persona.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<unistd.h>
+
+1681732466 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\buscaminas - grupo 3\src\tablero.cpp
+	"Tablero.h"
+	"Jugador.h"
+	<sstream>
+	<iostream>
+
