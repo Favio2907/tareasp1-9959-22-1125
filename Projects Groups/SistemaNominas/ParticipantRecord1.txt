@@ -14,3 +14,19 @@
 | Transferencia de pago a numero de cuenta: 523234                                                                       |
 |                                                                                                                        |
 | Fecha de emision: 12/4                                                                                                 |
+
+
+
+
+			 Id Persona: 999
+|      Datos del trabajador      |           Percepciones Empleados          |           Deducciones Empleados           |
+| Nombre:          Marry Gomez   | Sueldo:                           Q 4000  | ISR:                           Q 227.5   |
+| Genero:          Femenino     | Bonificaciones:                   Q 250   | IGGS:                          Q 136.5   |
+| DPI:             634234        | Comisiones:                       Q 200   | IRTRA:                         Q 75       |
+| Telefono 1:      234745        | Percepciones Extraordinarias:     Q 100   | Prestamos:                     Q 111      |
+| Telefono 2:      234745        | Horas Extra:                      Q 0    |                                           |
+| Cuenta Bancaria: 345135        | Total Percepciones:               Q 4550  | Total Deducciones:             Q 550      |
+|                                                                                                                        |
+| TOTAL SUELDO LIQUIDO Q 4000                                                                                            |
+|                                                                                                                        |
+| Fecha de emision: 17/4                                                                                                 |

@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1681154521 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistemanominas\src\usuarios.cpp
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"usuarios.h"
+
+1681153989 c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistemanominas\include\usuarios.h
+
+1681777656 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistemanominas\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"datos.h"
+	"Usuario.h"
+
+1681787776 c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistemanominas\include\datos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1681788323 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistemanominas\src\datos.cpp
+	"datos.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1681788373 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistemanominas\src\usuario.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1681776408 c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistemanominas\include\usuario.h
+	<iostream>
+	<fstream>
+	<string>
+
+1683509218 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistema nóminas\sistemanominas\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"datos.h"
+	"Usuario.h"
+
+1681787778 c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistema nóminas\sistemanominas\include\datos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1683511180 c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistema nóminas\sistemanominas\include\usuario.h
+	<iostream>
+	<fstream>
+	<string>
+
+1683509283 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistema nóminas\sistemanominas\src\datos.cpp
+	"datos.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1683513492 source:c:\users\favio\onedrive\documentos\mi repositorio\proyectos\sistema nóminas\sistema nóminas\sistemanominas\src\usuario.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
