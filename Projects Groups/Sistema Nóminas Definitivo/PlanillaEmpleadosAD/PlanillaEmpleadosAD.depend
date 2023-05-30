@@ -1,0 +1,294 @@
+# depslib dependency file v1.0
+1684631326 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\src\datosempleado.cpp
+	"DatosEmpleado.h"
+	"GuardarEmpleados.h"
+	"IngresarDatosEmpleado.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684524764 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\include\datosempleado.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684461745 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\src\usuarios.cpp
+	"Usuarios.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684461745 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684461853 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684461853 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684467117 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\src\planilla.cpp
+	"Planilla.h"
+	"Usuarios.h"
+	"bitacora.h"
+	"DatosEmpleado.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684464043 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\include\planilla.h
+
+1684464055 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Usuarios.h"
+	"Planilla.h"
+	"bitacora.h"
+
+1684523209 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\src\guardarempleados.cpp
+	"GuardarEmpleados.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684468072 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\include\guardarempleados.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684542607 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\src\ingresardatosempleado.cpp
+	"IngresarDatosEmpleado.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684525557 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\planillaempleadosgrupo\planillaempleadosad\include\ingresardatosempleado.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684464055 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Usuarios.h"
+	"Planilla.h"
+	"bitacora.h"
+
+1684461745 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684464043 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\include\planilla.h
+
+1684461853 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684461853 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684542607 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\src\ingresardatosempleado.cpp
+	"IngresarDatosEmpleado.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684525557 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\include\ingresardatosempleado.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684467117 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\src\planilla.cpp
+	"Planilla.h"
+	"Usuarios.h"
+	"bitacora.h"
+	"DatosEmpleado.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684524764 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\include\datosempleado.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684461745 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\src\usuarios.cpp
+	"Usuarios.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684631546 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\src\datosempleado.cpp
+	"DatosEmpleado.h"
+	"GuardarEmpleados.h"
+	"IngresarDatosEmpleado.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684468072 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\kgonzalez-22-2702\planillaempleadosad\include\guardarempleados.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684769051 source:c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"DatosEmpleado.h"
+	"IngresarDatosEmpleado.h"
+	"Usuarios.h"
+	"Planilla.h"
+	"bitacora.h"
+	"aplicaciones.h"
+
+1684686586 c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\include\datosempleado.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684686602 c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\include\ingresardatosempleado.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684697934 c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684686608 c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\include\planilla.h
+
+1684689023 c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684688729 c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\include\aplicaciones.h
+	<iostream>
+
+1684688694 source:c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\src\aplicaciones.cpp
+	"aplicaciones.h"
+	"Usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684689023 source:c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684725352 source:c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\src\datosempleado.cpp
+	"DatosEmpleado.h"
+	"GuardarEmpleados.h"
+	"IngresarDatosEmpleado.h"
+	"Usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684686594 c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\include\guardarempleados.h
+	<iostream>
+	<fstream>
+	<string>
+
+1684686718 source:c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\src\ingresardatosempleado.cpp
+	"IngresarDatosEmpleado.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1685403530 source:c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\src\planilla.cpp
+	"Planilla.h"
+	"Usuarios.h"
+	"bitacora.h"
+	"DatosEmpleado.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684725986 source:c:\users\favio\onedrive\escritorio\sistema nóminas definitivo\planillaempleadosad\src\usuarios.cpp
+	"Usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
