@@ -1,0 +1,3129 @@
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Kevin
+
+			Fecha en que Inicio Sesion: 19/5/2023
+
+			Hora en que entro al programa: 18:11:39
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Kevin
+
+			Fecha en que Inicio Sesion: 19/5/2023
+
+			Hora en que entro al programa: 18:11:59
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Kevin
+
+			Fecha en que Inicio Sesion: 19/5/2023
+
+			Hora en que entro al programa: 18:12:23
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Busco a un Empleado - 7008
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Kevin
+
+			Fecha en que Inicio Sesion: 19/5/2023
+
+			Hora en que entro al programa: 18:19:28
+
+			Accion: Busco a un Empleado - 7008
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Kevin
+
+			Fecha en que Inicio Sesion: 19/5/2023
+
+			Hora en que entro al programa: 18:31:41
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Busco a un Empleado - 7008
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Kevin
+
+			Fecha en que Inicio Sesion: 19/5/2023
+
+			Hora en que entro al programa: 18:34:36
+
+			Accion: Busco a un Empleado - 7008
+
+			Hora en que salio del programa: 18:34:36
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 10:51:17
+
+			Hora en que salio del programa: 10:51:17
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 11:54:36
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 13:42:54
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 13:51:46
+
+			Accion: Ingreso Un Usuario - 7006
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Hora en que salio del programa: 13:51:46
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Felipe
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 13:53:31
+
+			Accion: Informes Datos para Plantilla - 7022
+
+			Accion: Informes Datos para Usuarios - 7023
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:9:3
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:9:28
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:9:43
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:11:58
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:12:24
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:12:43
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:13:4
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:13:46
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:14:11
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:15:14
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:15:33
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:16:4
+
+			Accion: Ingreso Un Usuario - 7006
+
+			Hora en que salio del programa: 21:16:4
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Justin
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:21:13
+
+			Accion: Borro a un usuario - 7020
+			Usuario Borrado: Justin
+
+			Accion: Borro a un usuario - 7020
+			Usuario Borrado: Felipe
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:22:27
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:22:55
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:23:36
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:23:56
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:24:21
+
+			Accion: Informes Datos para Usuarios - 7023
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:25:15
+
+			Accion: Informes Datos para Usuarios - 7023
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:26:1
+
+			Accion: Informes Datos para Usuarios - 7023
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:26:30
+
+			Accion: Informes Datos para Usuarios - 7023
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 21/5/2023
+
+			Hora en que entro al programa: 21:26:55
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:16:52
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:17:28
+
+			Accion: Informes Datos para Plantilla - 7022
+
+			Accion: Informes Datos para Plantilla - 7022
+
+			Accion: Informes Datos para Usuarios - 7023
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:17:43
+
+			Hora en que salio del programa: 9:17:43
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:17:55
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Hora en que salio del programa: 9:17:55
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:44:14
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:44:52
+
+			Hora en que salio del programa: 9:44:52
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:45:21
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:45:58
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:51:11
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:51:25
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:51:39
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:55:31
+
+			Accion: Informes Datos para Plantilla - 7022
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:55:59
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Busco a un Empleado - 7008
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 9:57:51
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:1:1
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:1:21
+
+			Accion: Borro a un Empleado -  7009
+			Id Empleado Borrado: 32764
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:2:45
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:3:43
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:4:21
+
+			Accion: Informes Datos para Usuarios - 7023
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:4:36
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:7:25
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:8:5
+
+			Accion: Modifico Datos del Empleado - 7007
+
+			Accion: Busco a un Empleado - 7008
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:9:49
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:10:54
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:11:49
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:14:14
+
+			Accion: Busco a un Empleado - 7008
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:15:31
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 22/5/2023
+
+			Hora en que entro al programa: 10:17:56
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Modifico Un Usuario - 7010
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Informes Datos para Usuarios - 7023
+
+			Accion: Informes Datos para Plantilla - 7022
+
+			Accion: Informes Datos para Usuarios - 7023
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			NLOG
+
+			Nombre del usuario         : Favio
+
+			Contraseña con el que intento entrar: 203
+
+			Fecha en que Intento Inciar Sesion: 24/5/2023
+
+			Hora en que Intento Entrar al Programa: 9:52:54
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Juan
+
+			Fecha en que Inicio Sesion: 24/5/2023
+
+			Hora en que entro al programa: 9:53:25
+
+			Accion: Ingreso Un Usuario - 7006
+
+			Hora en que salio del programa: 9:53:25
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 24/5/2023
+
+			Hora en que entro al programa: 9:53:47
+
+			Accion: Busco a un Empleado - 7008
+
+			Hora en que salio del programa: 9:53:47
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 24/5/2023
+
+			Hora en que entro al programa: 9:54:7
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 16:30:6
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 20:45:21
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 20:47:30
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 20:47:52
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 20:54:29
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 20:57:32
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 20:59:4
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 20:59:47
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 20:59:59
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:1:13
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:1:49
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:2:9
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:4:11
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:7:29
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:8:4
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:8:25
+
+			Accion: Ingreso Todos los Datos - 7005
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:9:11
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:9:35
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:10:16
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:10:46
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:11:12
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:12:3
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:13:31
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:13:46
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:19:39
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Ingreso Todos los Datos - 7005
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:23:58
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:25:46
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:26:41
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:28:13
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:33:45
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:37:15
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:38:31
+
+			Accion: Informes Datos para Plantilla - 7022
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 28/5/2023
+
+			Hora en que entro al programa: 21:38:56
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:3:40
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:4:34
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:5:39
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:5:51
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:9:12
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:9:29
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:10:5
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:10:21
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:10:52
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:11:20
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:12:33
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:13:3
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:26:16
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:26:28
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:27:37
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:27:57
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:28:42
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:29:1
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:31:59
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Informes Datos para Plantilla - 7022
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:34:38
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:37:28
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:38:11
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Informes Datos para Plantilla - 7022
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:41:16
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:43:52
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:44:26
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:44:47
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:45:15
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:45:32
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:45:50
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:49:36
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:50:7
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:52:13
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Hora en que salio del programa: 7:52:13
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:54:58
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:56:28
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:56:40
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:57:1
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:57:11
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:57:39
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:58:3
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:59:4
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 7:59:57
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:6:57
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:7:10
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:7:20
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:7:45
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:7:56
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:8:23
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:10:42
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:18:3
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:18:19
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:20:10
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:21:29
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:21:46
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:22:32
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 8:25:0
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 9:24:39
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 9:26:11
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Hora en que salio del programa: 9:26:11
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 9:43:23
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 9:44:0
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 9:45:12
+
+			Accion: Modifico Datos del Empleado - 7007
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 9:50:39
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 9:56:50
+
+			Accion: Busco a un Empleado - 7008
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 9:57:58
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 10:2:32
+
+			Accion: Informes Datos para Plantilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 10:2:54
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 17:37:16
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 17:37:42
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 17:38:1
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 17:38:15
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 17:38:54
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 17:39:7
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 17:40:55
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:20:52
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:22:17
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:23:56
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:25:3
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:43:43
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:45:7
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:46:11
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:46:43
+
+			Accion: Borro a un Empleado -  7009
+			Id Empleado Borrado: 32764
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:47:18
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Busco a un Empleado - 7008
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:50:39
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:55:20
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:55:31
+
+			Accion: Borro a un Empleado -  7009
+			Id Empleado Borrado: 32764
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:56:4
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:58:15
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 18:58:55
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 19:4:29
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 19:8:51
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 19:9:18
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 19:13:10
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Percepciones - 7002
+
+			Accion: Ingreso Horas Extras - 7003
+
+			Accion: Ingreso Deducciones - 7004
+
+			Accion: Ingreso Todos los Datos - 7005
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 19:18:23
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 19:22:14
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 19:24:56
+
+			Accion: Ingreso Datos del Empleado - 7001
+
+			Accion: Informes Datos para Planilla - 7022
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 19:28:7
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 29/5/2023
+
+			Hora en que entro al programa: 19:36:47
+
+			Accion: Informes Datos para Planilla - 7022
+
