@@ -1,0 +1,540 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\objetos\proyecto\robot\main.cpp
+	<iostream>
+
+1647041769 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\objetos\proyecto\robot\src\player.cpp
+	"player.h"
+
+1647041769 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\objetos\proyecto\robot\include\player.h
+
+1648218813 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\main.cpp
+	<iostream>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+
+1648218813 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\include\player.h
+
+1647105197 D
+
+1648218813 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+
+1647127950 ot_construyendo_paredes
+	"player.h"
+	<iostream>
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1648181161 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1648130225 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\include\mapcell.h
+
+1648176707 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\include\gamemap.h
+	"mapcell.h"
+
+1648218813 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1648218814 source:e:\gerizim\proyectos\didactica2k23\temporal\prograuno2k23\proyecto_juego\main.cpp
+	<iostream>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+
+1648218814 e:\gerizim\proyectos\didactica2k23\temporal\prograuno2k23\proyecto_juego\include\player.h
+
+1648130226 e:\gerizim\proyectos\didactica2k23\temporal\prograuno2k23\proyecto_juego\include\mapcell.h
+
+1648176708 e:\gerizim\proyectos\didactica2k23\temporal\prograuno2k23\proyecto_juego\include\gamemap.h
+	"mapcell.h"
+
+1648218814 source:e:\gerizim\proyectos\didactica2k23\temporal\prograuno2k23\proyecto_juego\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1648181162 source:e:\gerizim\proyectos\didactica2k23\temporal\prograuno2k23\proyecto_juego\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1648218814 source:e:\gerizim\proyectos\didactica2k23\temporal\prograuno2k23\proyecto_juego\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+
+1648218814 source:c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\proyecto_juego\main.cpp
+	<iostream>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+
+1648218814 c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\proyecto_juego\include\player.h
+
+1648130226 c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\proyecto_juego\include\mapcell.h
+
+1648176708 c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\proyecto_juego\include\gamemap.h
+	"mapcell.h"
+
+1648218814 source:c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\proyecto_juego\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1648181162 source:c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\proyecto_juego\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1648218814 source:c:\users\soporte\documents\umg\didactica2k23\temporal\prograuno2k23\proyecto_juego\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+
+1648218814 source:c:\users\soporte\documents\umg\didactica2k23\clases\prograuno2k23\juegos\robot - final\main.cpp
+	<iostream>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+
+1648218814 c:\users\soporte\documents\umg\didactica2k23\clases\prograuno2k23\juegos\robot - final\include\player.h
+
+1648130226 c:\users\soporte\documents\umg\didactica2k23\clases\prograuno2k23\juegos\robot - final\include\mapcell.h
+
+1648176708 c:\users\soporte\documents\umg\didactica2k23\clases\prograuno2k23\juegos\robot - final\include\gamemap.h
+	"mapcell.h"
+
+1648218814 source:c:\users\soporte\documents\umg\didactica2k23\clases\prograuno2k23\juegos\robot - final\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1648181162 source:c:\users\soporte\documents\umg\didactica2k23\clases\prograuno2k23\juegos\robot - final\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1648218814 source:c:\users\soporte\documents\umg\didactica2k23\clases\prograuno2k23\juegos\robot - final\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685489287 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\prograuno2k23\juegos\robot - final\main.cpp
+	<iostream>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+	"game.h"
+
+1685148683 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\prograuno2k23\juegos\robot - final\include\player.h
+
+1685148683 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\prograuno2k23\juegos\robot - final\include\mapcell.h
+
+1685148683 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\prograuno2k23\juegos\robot - final\include\gamemap.h
+	"mapcell.h"
+
+1685153657 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\prograuno2k23\juegos\robot - final\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1685148683 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\prograuno2k23\juegos\robot - final\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1685306878 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\prograuno2k23\juegos\robot - final\src\player.cpp
+	"player.h"
+	"game.h"
+	<iostream>
+	<fstream>
+
+1685306878 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\prograuno2k23\juegos\robot - final\include\game.h
+
+1685307611 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\prograuno2k23\juegos\robot - final\src\game.cpp
+	"game.h"
+	<iostream>
+
+1685670798 source:c:\users\cjcaballeros_adm\desktop\kevin - original\juego robot\src\game.cpp
+	"game.h"
+	<iostream>
+
+1685670798 c:\users\cjcaballeros_adm\desktop\kevin - original\juego robot\include\game.h
+
+1685670798 source:c:\users\cjcaballeros_adm\desktop\kevin - original\juego robot\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1685670798 c:\users\cjcaballeros_adm\desktop\kevin - original\juego robot\include\gamemap.h
+	"mapcell.h"
+
+1685670798 c:\users\cjcaballeros_adm\desktop\kevin - original\juego robot\include\mapcell.h
+
+1685670798 source:c:\users\cjcaballeros_adm\desktop\kevin - original\juego robot\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1685695790 source:c:\users\cjcaballeros_adm\desktop\kevin - original\juego robot\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1685670798 c:\users\cjcaballeros_adm\desktop\kevin - original\juego robot\include\player.h
+
+1685695671 source:c:\users\cjcaballeros_adm\desktop\kevin - original\juego robot\main.cpp
+	<iostream>
+	<windows.h>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+	"game.h"
+
+1685700772 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\main.cpp
+	<iostream>
+	<windows.h>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+	"gamemap2.h"
+	"game.h"
+
+1685670798 c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\include\player.h
+
+1685696411 c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\include\mapcell.h
+
+1685696411 c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\include\gamemap.h
+	"mapcell.h"
+
+1685700773 c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\include\game.h
+
+1685701283 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\src\game.cpp
+	"game.h"
+	<iostream>
+
+1685696498 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\src\gamemap.cpp
+	"gamemap.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685696297 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1685695790 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1685696964 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\src\gamemap2.cpp
+	"gamemap2.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685696900 c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\include\gamemap2.h
+	"mapcell.h"
+
+1685701496 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\src\gamemap3.cpp
+	"gamemap3.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685701541 c:\users\cjcaballeros_adm\desktop\implementacion de kevin y daniel\juego robot\include\gamemap3.h
+	"mapcell.h"
+
+1685701283 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\src\game.cpp
+	"game.h"
+	<iostream>
+
+1685700773 c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\include\game.h
+
+1685696498 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\src\gamemap.cpp
+	"gamemap.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685696411 c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\include\gamemap.h
+	"mapcell.h"
+
+1685696411 c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\include\mapcell.h
+
+1685670798 c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\include\player.h
+
+1685696964 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\src\gamemap2.cpp
+	"gamemap2.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685696900 c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\include\gamemap2.h
+	"mapcell.h"
+
+1685701496 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\src\gamemap3.cpp
+	"gamemap3.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685701541 c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\include\gamemap3.h
+	"mapcell.h"
+
+1685696297 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1685695790 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1685702146 source:c:\users\cjcaballeros_adm\desktop\implementacion de kevin, daniel, gio\juego robot\main.cpp
+	<iostream>
+	<windows.h>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+	"gamemap2.h"
+	"gamemap3.h"
+	"game.h"
+
+1685715040 source:c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\main.cpp
+	<iostream>
+	<windows.h>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+	"gamemap2.h"
+	"gamemap3.h"
+	"game.h"
+
+1685670798 c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\include\player.h
+
+1685696412 c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\include\mapcell.h
+
+1685696412 c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\include\gamemap.h
+	"mapcell.h"
+
+1685696902 c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\include\gamemap2.h
+	"mapcell.h"
+
+1685701542 c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\include\gamemap3.h
+	"mapcell.h"
+
+1685700774 c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\include\game.h
+
+1685701284 source:c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\src\game.cpp
+	"game.h"
+	<iostream>
+
+1685696500 source:c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\src\gamemap.cpp
+	"gamemap.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685696966 source:c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\src\gamemap2.cpp
+	"gamemap2.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685701498 source:c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\src\gamemap3.cpp
+	"gamemap3.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685696298 source:c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1685695792 source:c:\users\favio\onedrive\escritorio\implementacion de kevin, daniel, gio\juego robot\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1685715040 source:c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\main.cpp
+	<iostream>
+	<windows.h>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+	"gamemap2.h"
+	"gamemap3.h"
+	"game.h"
+
+1685670798 c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\include\player.h
+
+1685696412 c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\include\mapcell.h
+
+1685696412 c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\include\gamemap.h
+	"mapcell.h"
+
+1685696902 c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\include\gamemap2.h
+	"mapcell.h"
+
+1685701542 c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\include\gamemap3.h
+	"mapcell.h"
+
+1685700774 c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\include\game.h
+
+1685701284 source:c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\src\game.cpp
+	"game.h"
+	<iostream>
+
+1685696500 source:c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\src\gamemap.cpp
+	"gamemap.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685696966 source:c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\src\gamemap2.cpp
+	"gamemap2.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685701498 source:c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\src\gamemap3.cpp
+	"gamemap3.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685696298 source:c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1685695792 source:c:\users\favio\onedrive\escritorio\implementaciones juego robot\juego robot\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1685730257 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\src\game.cpp
+	"game.h"
+	<iostream>
+
+1685730244 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\include\game.h
+
+1685719049 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\src\gamemap.cpp
+	"gamemap.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685719049 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\include\gamemap.h
+	"mapcell.h"
+
+1685719049 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\include\mapcell.h
+
+1685727619 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\include\player.h
+
+1685719049 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\src\gamemap2.cpp
+	"gamemap2.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685719049 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\include\gamemap2.h
+	"mapcell.h"
+
+1685719049 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\src\gamemap3.cpp
+	"gamemap3.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685719049 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\include\gamemap3.h
+	"mapcell.h"
+
+1685719049 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1685730284 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\src\player.cpp
+	"player.h"
+	"game.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1685730480 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\proyecto grupo\carpeta favio\tareasp1-9959-22-1125\implementaciones juego robot\juego robot\main.cpp
+	<iostream>
+	<windows.h>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+	"gamemap2.h"
+	"gamemap3.h"
+	"game.h"
+
+1685731599 source:c:\users\favio\onedrive\escritorio\juego\juego robot\main.cpp
+	<iostream>
+	<windows.h>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+	"gamemap2.h"
+	"gamemap3.h"
+	"game.h"
+
+1685731599 c:\users\favio\onedrive\escritorio\juego\juego robot\include\player.h
+
+1685731599 c:\users\favio\onedrive\escritorio\juego\juego robot\include\mapcell.h
+
+1685731599 c:\users\favio\onedrive\escritorio\juego\juego robot\include\gamemap.h
+	"mapcell.h"
+
+1685731599 c:\users\favio\onedrive\escritorio\juego\juego robot\include\gamemap2.h
+	"mapcell.h"
+
+1685731599 c:\users\favio\onedrive\escritorio\juego\juego robot\include\gamemap3.h
+	"mapcell.h"
+
+1685731599 c:\users\favio\onedrive\escritorio\juego\juego robot\include\game.h
+
+1685731599 source:c:\users\favio\onedrive\escritorio\juego\juego robot\src\game.cpp
+	"game.h"
+	<iostream>
+
+1685731599 source:c:\users\favio\onedrive\escritorio\juego\juego robot\src\gamemap.cpp
+	"gamemap.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685731599 source:c:\users\favio\onedrive\escritorio\juego\juego robot\src\gamemap2.cpp
+	"gamemap2.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685731599 source:c:\users\favio\onedrive\escritorio\juego\juego robot\src\gamemap3.cpp
+	"gamemap3.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685731599 source:c:\users\favio\onedrive\escritorio\juego\juego robot\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1685731599 source:c:\users\favio\onedrive\escritorio\juego\juego robot\src\player.cpp
+	"player.h"
+	"game.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+
