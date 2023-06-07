@@ -41,3 +41,24 @@
 
 1686096301 c:\users\favio\onedrive\escritorio\programas de prueba\calculadora2\include\operacionesextendidas.h
 
+1686096491 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\calculadora2\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+
+1686097374 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\calculadora2\src\operacionesbasicas.cpp
+	"operacionesBasicas.h"
+	<iostream>
+	<cstdlib>
+	<math.h>
+
+1686096455 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\calculadora2\include\operacionesbasicas.h
+
+1686097517 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\calculadora2\src\operacionesextendidas.cpp
+	"operacionesExtendidas.h"
+	<iostream>
+	<cstdlib>
+	<math.h>
+
+1686096301 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\calculadora2\include\operacionesextendidas.h
+
