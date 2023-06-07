@@ -104,3 +104,67 @@
 	<fstream>
 	<limits>
 
+1686154911 source:c:\users\favio\tareasp1-9959-22-1125\prototipop1ef2023\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Usuarios.h"
+	"bitacora.h"
+	"Planilla.h"
+
+1686154911 c:\users\favio\tareasp1-9959-22-1125\prototipop1ef2023\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1686154911 c:\users\favio\tareasp1-9959-22-1125\prototipop1ef2023\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686154911 c:\users\favio\tareasp1-9959-22-1125\prototipop1ef2023\include\planilla.h
+
+1686154911 source:c:\users\favio\tareasp1-9959-22-1125\prototipop1ef2023\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686161185 source:c:\users\favio\tareasp1-9959-22-1125\prototipop1ef2023\src\cine.cpp
+	"Cine.h"
+	<iostream>
+	<fstream>
+	<limits>
+
+1686161584 c:\users\favio\tareasp1-9959-22-1125\prototipop1ef2023\include\cine.h
+	<string>
+	<vector>
+
+1686155337 source:c:\users\favio\tareasp1-9959-22-1125\prototipop1ef2023\src\planilla.cpp
+	"Planilla.h"
+	"Usuarios.h"
+	"bitacora.h"
+	"Cine.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686154911 source:c:\users\favio\tareasp1-9959-22-1125\prototipop1ef2023\src\usuarios.cpp
+	"Usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+

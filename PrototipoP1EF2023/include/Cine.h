@@ -2,6 +2,7 @@
 #define CINE_H
 
 #include <string>
+#include <vector>  // Agrega esta línea para incluir la biblioteca vector
 
 using namespace std;
 
@@ -27,13 +28,15 @@ private:
     };
 
     Cliente cliente;
-    Funcion funciones[3]; // Cambia el tamaño según el número de funciones deseadas
+    Funcion funciones[3];
+    vector<Cliente> clientes;  // Agrega esta línea
 
     void guardarClientes();
     void cargarClientes();
     void guardarFunciones();
     void cargarFunciones();
     void mostrarClientes();
+    void mostrarComprasPorFuncion();  // Agrega esta función
 };
 
 #endif // CINE_H

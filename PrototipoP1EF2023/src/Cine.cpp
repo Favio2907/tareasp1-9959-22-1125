@@ -1,18 +1,54 @@
 // Rama de los proesos cine
 // Favio Lopez, Carnet 9959-22-1125
 
-#include "Cine.h"
 #include <iostream>
-#include <fstream> // Para trabajar con archivos
-#include <limits>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <utility>
+#include <fstream>
+#include <sstream>
+
 
 using namespace std;
 
+struct Funcion {
+    string pelicula;
+    string horario;
+    int boletosDisponibles;
+};
+
+class Cine {
+public:
+    Cine();
+    void iniciarVenta();
+    void registrarCliente();
+    void mostrarFunciones();
+    int seleccionarFuncion();
+    void venderBoletos(int opcionFuncion);
+    void mostrarComprasPorFuncion();
+
+private:
+    struct Cliente {
+        string nombre;
+        string direccion;
+        int numBoletos;
+    };
+
+    vector<Cliente> clientes;
+    Funcion funciones[3];
+
+    void guardarClientes();
+    void cargarClientes();
+    void guardarFunciones();
+    void cargarFunciones();
+};
+
 Cine::Cine() {
     // Inicializar las funciones disponibles
-    funciones[0] = {"Pelicula 1", "10:00 AM", 100};
-    funciones[1] = {"Pelicula 2", "2:00 PM", 50};
-    funciones[2] = {"Pelicula 3", "7:00 PM", 80};
+    funciones[0] = { "Pelicula 1", "10:00 AM", 100 };
+    funciones[1] = { "Pelicula 2", "2:00 PM", 50 };
+    funciones[2] = { "Pelicula 3", "7:00 PM", 80 };
 
     // Cargar los datos almacenados previamente al iniciar el cine
     cargarClientes();
@@ -23,16 +59,15 @@ void Cine::iniciarVenta() {
     int opcion;
     do {
         system("cls");
-
         cout << "PrototipoP1EF2023 - Favio Lopez, Carnet 9959-22-1125" << endl;
-        cout << " " << endl;
+        cout << endl;
         cout << "\t\t\t-------------------------------------" << endl;
         cout << "\t\t\t|BIENVENIDO AL MENU DE PROCESOS CINE|" << endl;
         cout << "\t\t\t-------------------------------------" << endl;
         cout << "\t\t\t 1. Registrar cliente" << endl;
-        cout << "\t\t\t 2. Mostrar clientes" << endl;
-        cout << "\t\t\t 3. Mostrar funciones disponibles" << endl;
-        cout << "\t\t\t 4. Vender boletos" << endl;
+        cout << "\t\t\t 2. Mostrar funciones disponibles" << endl;
+        cout << "\t\t\t 3. Vender boletos" << endl;
+        cout << "\t\t\t 4. Mostrar compras por funcion" << endl;
         cout << "\t\t\t 5. Salir" << endl;
 
         cout << "\t\t\t-------------------------------" << endl;
@@ -50,16 +85,12 @@ void Cine::iniciarVenta() {
                 cout << "Cliente registrado con éxito." << endl;
                 break;
             case 2:
-                mostrarClientes();
-                system("pause");
-                break;
-            case 3:
                 mostrarFunciones();
                 system("pause");
                 break;
-            case 4: {
-                if (cliente.nombre.empty()) {
-                    cout << "Por favor, registre al cliente primero." << endl;
+            case 3: {
+                if (clientes.empty()) {
+                    cout << "Por favor, registre al menos un cliente primero." << endl;
                 } else {
                     mostrarFunciones();
                     int opcionFuncion = seleccionarFuncion();
@@ -67,151 +98,228 @@ void Cine::iniciarVenta() {
                 }
                 break;
             }
+            case 4:
+                mostrarComprasPorFuncion();
+                break;
             case 5:
-                cout << "¡Hasta luego!" << endl;
+                cout << "Saliendo del programa..." << endl;
                 break;
             default:
-                cout << "Opción inválida. Por favor, seleccione una opción válida." << endl;
+                cout << "Opción inválida. Por favor, ingrese una opción válida." << endl;
                 break;
         }
 
-        cout << endl;
     } while (opcion != 5);
 }
 
 void Cine::registrarCliente() {
     system("cls");
 
-    cout << "Nombre del cliente: ";
-    getline(cin, cliente.nombre);
+    Cliente nuevoCliente;
 
-    cout << "Direccion del cliente: ";
-    getline(cin, cliente.direccion);
+    cout << "Registro de Cliente" << endl;
+    cout << "-------------------" << endl;
 
+    cout << "Nombre: ";
+    getline(cin, nuevoCliente.nombre);
+
+    cout << "Direccion: ";
+    getline(cin, nuevoCliente.direccion);
+
+    nuevoCliente.numBoletos = 0;
+
+    clientes.push_back(nuevoCliente);
+
+    // Guardar los clientes en el archivo de texto
     guardarClientes();
 }
 
 void Cine::mostrarFunciones() {
     system("cls");
 
-        cout<<"\n------------------------ Tabla de Funciones Registradas ------------------------"<<endl;
-        cout << " " << endl;
-    	cout << "\t\t\t Funciones disponibles:" << endl;
-    	cout << " " << endl;
-    	for (int i = 0; i < 3; i++) { // Cambia el límite según el número de funciones deseadas
-        cout << i + 1 << ". \t Pelicula: " << funciones[i].pelicula << " - Horario: " << funciones[i].horario;
-        cout << "- \t  Boletos disponibles: " << funciones[i].boletosDisponibles << endl;
+    cout << "Funciones Disponibles" << endl;
+    cout << "---------------------" << endl;
 
+    for (int i = 0; i < 3; i++) {
+        cout << "Funcion " << i + 1 << ": " << funciones[i].pelicula << " - " << funciones[i].horario << endl;
+        cout << "Boletos disponibles: " << funciones[i].boletosDisponibles << endl;
+        cout << endl;
     }
 }
 
 int Cine::seleccionarFuncion() {
-    int opcion;
-    do {
-        cout << " " << endl;
-        cout << "Seleccione una funcion (1-3): ";
-        cin >> opcion;
-    } while (opcion < 1 || opcion > 3); // Cambia el límite según el número de funciones deseadas
+    int opcionFuncion;
+    cout << "Seleccione una funcion (1-3): ";
+    cin >> opcionFuncion;
+
+    // Validar la opción ingresada
+    while (opcionFuncion < 1 || opcionFuncion > 3) {
+        cout << "Opción invalida. Ingrese un numero de funcion valido (1-3): ";
+        cin >> opcionFuncion;
+    }
 
     // Limpiar el buffer de entrada después de leer un número
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
-    return opcion;
+    return opcionFuncion;
 }
 
 void Cine::venderBoletos(int opcionFuncion) {
-    Funcion& funcion = funciones[opcionFuncion - 1];
-
-    int numBoletos;
-
     system("cls");
 
-    cout << "Cantidad de boletos a comprar (disponibles: " << funcion.boletosDisponibles << "): ";
+    int numBoletos;
+    cout << "Venta de Boletos" << endl;
+    cout << "----------------" << endl;
+
+    // Obtener la función seleccionada
+    Funcion& funcionSeleccionada = funciones[opcionFuncion - 1];
+
+    // Mostrar los detalles de la función seleccionada
+    cout << "Función: " << funcionSeleccionada.pelicula << " - " << funcionSeleccionada.horario << endl;
+    cout << "Boletos disponibles: " << funcionSeleccionada.boletosDisponibles << endl;
+
+    // Solicitar la cantidad de boletos a vender
+    cout << "Ingrese la cantidad de boletos a vender: ";
     cin >> numBoletos;
 
-    if (numBoletos > funcion.boletosDisponibles) {
-        cout << "Lo sentimos, no hay suficientes boletos disponibles." << endl;
-    } else {
-        funcion.boletosDisponibles -= numBoletos;
-        cout << "¡Compra realizada con éxito!" << endl;
+    // Validar la cantidad de boletos ingresada
+    while (numBoletos < 1 || numBoletos > funcionSeleccionada.boletosDisponibles) {
+        cout << "Cantidad invalida. Ingrese una cantidad de boletos valida (1-" << funcionSeleccionada.boletosDisponibles << "): ";
+        cin >> numBoletos;
     }
 
+    // Limpiar el buffer de entrada después de leer un número
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+
+    // Actualizar la disponibilidad de boletos de la función seleccionada
+    funcionSeleccionada.boletosDisponibles -= numBoletos;
+
+    // Actualizar el número de boletos vendidos para el cliente actual
+    clientes.back().numBoletos += numBoletos;
+
+    cout << "Venta realizada con exito." << endl;
+
+    // Guardar los cambios en el archivo de texto
     guardarFunciones();
+    guardarClientes();
+}
+
+void Cine::mostrarComprasPorFuncion() {
+    system("cls");
+
+    cout << "Compras por Funcion" << endl;
+    cout << "-------------------" << endl;
+
+    for (int i = 0; i < 3; i++) {
+        cout << "Funcion " << i + 1 << ": " << funciones[i].pelicula << " - " << funciones[i].horario << endl;
+        cout << "-------------------" << endl;
+
+        bool encontrada = false;
+
+        for (const auto& cliente : clientes) {
+            if (cliente.numBoletos > 0) {
+                encontrada = true;
+                cout << "Cliente: " << cliente.nombre << endl;
+                cout << "Cantidad de boletos comprados: " << cliente.numBoletos << endl;
+                cout << endl;
+            }
+        }
+
+        if (!encontrada) {
+            cout << "No se han realizado compras para esta función." << endl;
+            cout << endl;
+        }
+    }
+
+    system("pause");
 }
 
 void Cine::guardarClientes() {
-    ofstream archivo("clientes.txt"); // Abre el archivo en modo de escritura
-    if (archivo.is_open()) {
-        archivo << cliente.nombre << endl;
-        archivo << cliente.direccion << endl;
-        archivo.close(); // Cierra el archivo después de escribir
+    ofstream archivoClientes("clientes.txt");
+
+    if (archivoClientes.is_open()) {
+        for (const auto& cliente : clientes) {
+            archivoClientes << cliente.nombre << ',' << cliente.direccion << ',' << cliente.numBoletos << '\n';
+        }
+
+        archivoClientes.close();
     } else {
-        cout << "No se pudo abrir el archivo para guardar los clientes." << endl;
+        cout << "No se pudo abrir el archivo de clientes." << endl;
     }
 }
 
 void Cine::cargarClientes() {
-    ifstream archivo("clientes.txt"); // Abre el archivo en modo de lectura
-    if (archivo.is_open()) {
-        getline(archivo, cliente.nombre);
-        getline(archivo, cliente.direccion);
-        archivo.close(); // Cierra el archivo después de leer
+    ifstream archivoClientes("clientes.txt");
+
+    if (archivoClientes.is_open()) {
+        clientes.clear();
+
+        string linea;
+
+        while (getline(archivoClientes, linea)) {
+            stringstream ss(linea);
+            string nombre, direccion, numBoletosStr;
+            int numBoletos;
+
+            if (getline(ss, nombre, ',') && getline(ss, direccion, ',') && getline(ss, numBoletosStr, ',')) {
+                numBoletos = stoi(numBoletosStr);
+
+                Cliente cliente;
+                cliente.nombre = nombre;
+                cliente.direccion = direccion;
+                cliente.numBoletos = numBoletos;
+
+                clientes.push_back(cliente);
+            }
+        }
+
+        archivoClientes.close();
     } else {
-        cout << "No se pudo abrir el archivo para cargar los clientes. Se usarán valores por defecto." << endl;
+        cout << "No se pudo abrir el archivo de clientes." << endl;
     }
 }
 
 void Cine::guardarFunciones() {
-    ofstream archivo("funciones.txt"); // Abre el archivo en modo de escritura
-    if (archivo.is_open()) {
-        for (int i = 0; i < 3; i++) { // Cambia el límite según el número de funciones deseadas
-            archivo << funciones[i].pelicula << endl;
-            archivo << funciones[i].horario << endl;
-            archivo << funciones[i].boletosDisponibles << endl;
+    ofstream archivoFunciones("funciones.txt");
+
+    if (archivoFunciones.is_open()) {
+        for (const auto& funcion : funciones) {
+            archivoFunciones << funcion.pelicula << ',' << funcion.horario << ',' << funcion.boletosDisponibles << '\n';
         }
-        archivo.close(); // Cierra el archivo después de escribir
+
+        archivoFunciones.close();
     } else {
-        cout << "No se pudo abrir el archivo para guardar las funciones." << endl;
+        cout << "No se pudo abrir el archivo de funciones." << endl;
     }
 }
 
 void Cine::cargarFunciones() {
-    ifstream archivo("funciones.txt"); // Abre el archivo en modo de lectura
-    if (archivo.is_open()) {
-        for (int i = 0; i < 3; i++) { // Cambia el límite según el número de funciones deseadas
-            getline(archivo, funciones[i].pelicula);
-            getline(archivo, funciones[i].horario);
-            archivo >> funciones[i].boletosDisponibles;
-            archivo.ignore(numeric_limits<streamsize>::max(), '\n'); // Limpiar el buffer de entrada
-        }
-        archivo.close(); // Cierra el archivo después de leer
-    } else {
-        cout << "No se pudo abrir el archivo para cargar las funciones. Se usarán valores por defecto." << endl;
-    }
-}
+    ifstream archivoFunciones("funciones.txt");
 
-void Cine::mostrarClientes() {
+    if (archivoFunciones.is_open()) {
+        string linea;
+        int indice = 0;
 
-    system("cls");
-    ifstream archivo("clientes.txt"); // Abre el archivo en modo de lectura
-    if (archivo.is_open()) {
-        string nombre, direccion;
-        getline(archivo, nombre);
-        getline(archivo, direccion);
+        while (getline(archivoFunciones, linea)) {
+            stringstream ss(linea);
+            string pelicula, horario, boletosDisponiblesStr;
+            int boletosDisponibles;
 
-        if (!nombre.empty() && !direccion.empty()) {
+            if (getline(ss, pelicula, ',') && getline(ss, horario, ',') && getline(ss, boletosDisponiblesStr, ',')) {
+                boletosDisponibles = stoi(boletosDisponiblesStr);
 
-        cout<<"\n------------------------ Tabla de Clientes Registrados ------------------------"<<endl;
-        cout << " " << endl;
-        cout << "\t\t\t Clientes registrados:" << endl;
-        cout << "\t\t\t Nombre: " << nombre << endl;
-        cout << "\t\t\t Direccion: " << direccion << endl;
-        } else {
-            cout << "No hay clientes registrados." << endl;
+                Funcion funcion;
+                funcion.pelicula = pelicula;
+                funcion.horario = horario;
+                funcion.boletosDisponibles = boletosDisponibles;
+
+                funciones[indice++] = funcion;
+            }
         }
 
-        archivo.close(); // Cierra el archivo después de leer
+        archivoFunciones.close();
     } else {
-        cout << "No se pudo abrir el archivo para cargar los clientes." << endl;
+        cout << "No se pudo abrir el archivo de funciones." << endl;
     }
+
 }
