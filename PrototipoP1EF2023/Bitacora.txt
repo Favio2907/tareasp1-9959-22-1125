@@ -1,0 +1,129 @@
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:18:53
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:20:0
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:22:14
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:23:45
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:25:10
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:25:38
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:34:40
+
+			Accion: Ingreso Un Usuario - 7006
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Informes Datos para Usuarios - 7023
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:39:32
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:41:13
+

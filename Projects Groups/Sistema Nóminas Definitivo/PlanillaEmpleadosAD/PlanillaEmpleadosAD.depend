@@ -292,3 +292,100 @@
 	<conio.h>
 	<iomanip>
 
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"DatosEmpleado.h"
+	"IngresarDatosEmpleado.h"
+	"Usuarios.h"
+	"Planilla.h"
+	"bitacora.h"
+	"aplicaciones.h"
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\include\datosempleado.h
+	<iostream>
+	<fstream>
+	<string>
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\include\ingresardatosempleado.h
+	<iostream>
+	<fstream>
+	<string>
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\include\planilla.h
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\include\aplicaciones.h
+	<iostream>
+
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\src\datosempleado.cpp
+	"DatosEmpleado.h"
+	"GuardarEmpleados.h"
+	"IngresarDatosEmpleado.h"
+	"Usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\include\guardarempleados.h
+	<iostream>
+	<fstream>
+	<string>
+
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\src\ingresardatosempleado.cpp
+	"IngresarDatosEmpleado.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\src\planilla.cpp
+	"Planilla.h"
+	"Usuarios.h"
+	"bitacora.h"
+	"DatosEmpleado.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\sistema nóminas definitivo\planillaempleadosad\src\usuarios.cpp
+	"Usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+

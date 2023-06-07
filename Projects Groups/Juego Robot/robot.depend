@@ -538,3 +538,61 @@
 	<fstream>
 	<conio.h>
 
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\main.cpp
+	<iostream>
+	<windows.h>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+	"gamemap2.h"
+	"gamemap3.h"
+	"game.h"
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\include\player.h
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\include\mapcell.h
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\include\gamemap.h
+	"mapcell.h"
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\include\gamemap2.h
+	"mapcell.h"
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\include\gamemap3.h
+	"mapcell.h"
+
+1686105440 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\include\game.h
+
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\src\game.cpp
+	"game.h"
+	<iostream>
+
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\src\gamemap.cpp
+	"gamemap.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\src\gamemap2.cpp
+	"gamemap2.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\src\gamemap3.cpp
+	"gamemap3.h"
+	"player.h"
+	<iostream>
+	<fstream>
+
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1686105440 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\projects groups\juego robot\src\player.cpp
+	"player.h"
+	"game.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+

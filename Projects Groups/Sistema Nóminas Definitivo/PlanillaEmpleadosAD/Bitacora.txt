@@ -2695,3 +2695,18 @@
 
 			Hora en que entro al programa: 17:40:55
 
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 6/6/2023
+
+			Hora en que entro al programa: 21:35:4
+
+			Hora en que salio del programa: 21:35:4
+
