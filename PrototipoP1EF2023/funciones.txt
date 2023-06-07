@@ -1,0 +1,9 @@
+Pelicula 1
+10:00 AM
+100
+Pelicula 2
+2:00 PM
+49
+Pelicula 3
+7:00 PM
+80

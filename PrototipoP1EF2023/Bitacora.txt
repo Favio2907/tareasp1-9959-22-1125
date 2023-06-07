@@ -1,0 +1,456 @@
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:18:53
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:20:0
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:22:14
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:23:45
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:25:10
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:25:38
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:34:40
+
+			Accion: Ingreso Un Usuario - 7006
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Consulto Bitacora - 7021
+
+			Aplicacion: 7021, Accion:Despliege de Bitacora
+
+			Accion: Informes Datos para Usuarios - 7023
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:39:32
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 9:41:13
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:29:8
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:31:40
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:32:7
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:32:29
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:34:38
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:34:55
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:35:54
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:36:48
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:37:27
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:38:4
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:38:32
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:58:12
+
+			Hora en que salio del programa: 10:58:12
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 10:59:50
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:13:37
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:21:24
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:22:32
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:24:0
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:26:13
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:26:41
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:27:37
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:28:37
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:29:31
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:30:26
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:30:51
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Favio
+
+			Fecha en que Inicio Sesion: 7/6/2023
+
+			Hora en que entro al programa: 11:31:16
+

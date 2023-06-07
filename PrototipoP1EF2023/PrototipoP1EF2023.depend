@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1686151488 source:c:\users\favio\onedrive\escritorio\programas de prueba\prototipop1ef2023\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686150945 c:\users\favio\onedrive\escritorio\programas de prueba\prototipop1ef2023\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686151488 source:c:\users\favio\onedrive\escritorio\programas de prueba\prototipop1ef2023\src\usuarios.cpp
+	"Usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686150842 c:\users\favio\onedrive\escritorio\programas de prueba\prototipop1ef2023\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1686151749 source:c:\users\favio\onedrive\escritorio\programas de prueba\prototipop1ef2023\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Usuarios.h"
+	"bitacora.h"
+	"Planilla.h"
+
+1686151749 c:\users\favio\onedrive\escritorio\programas de prueba\prototipop1ef2023\include\planilla.h
+
+1686154911 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\prototipop1ef2023\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Usuarios.h"
+	"bitacora.h"
+	"Planilla.h"
+
+1686154911 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\prototipop1ef2023\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1686154911 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\prototipop1ef2023\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686154911 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\prototipop1ef2023\include\planilla.h
+
+1686154911 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\prototipop1ef2023\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686154911 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\prototipop1ef2023\src\usuarios.cpp
+	"Usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686155337 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\prototipop1ef2023\src\planilla.cpp
+	"Planilla.h"
+	"Usuarios.h"
+	"bitacora.h"
+	"Cine.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686158373 c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\prototipop1ef2023\include\cine.h
+	<string>
+
+1686158797 source:c:\users\favio\onedrive\documentos\mi repositorio\tareasp1-9959-22-1125\prototipop1ef2023\src\cine.cpp
+	"Cine.h"
+	<iostream>
+	<fstream>
+	<limits>
+
